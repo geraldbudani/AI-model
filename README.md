@@ -5,7 +5,7 @@ It uses ** SMS Spam Collection Dataset ** (UCI Depot) and uses machine learning 
 ,,
 
 ## 📂 dataset
-- Source: [UCI Machine Learning Repository - SMS Spam Collection] (https://archive.ici.edu/ml/datasets/smspamspam+++++++++  
+- Source: [UCI Machine Learning Repository - SMS Spam Collection] (https://archive.ics.uci.edu/dataset/228/sms+spam+collection)  
 - The dataset has 5 574 SMS messages marked as ** him ** (legal) or ** spam **.  
 - Store the data set file 'SMSSSPAMCOLLACTION' in the data/`` folder for this project.
 
@@ -21,8 +21,19 @@ It uses ** SMS Spam Collection Dataset ** (UCI Depot) and uses machine learning 
 ,,
 
 ## 🚀 How to Run
+### 1. Clone the Repository  
+Download the project from GitHub:  
+```bash
+git clone https://github.com/yourusername/ai-text-classification.git
+cd ai-text-classification
 
+Install depencies
+pip install -r requirements.txt
 
-### 1. Install dependencies
+Train and Evaluate the Model
+python main.ipynb
+
+Make predictions
+python predict.py
 ```bash
 pip install -r requirements.txt
