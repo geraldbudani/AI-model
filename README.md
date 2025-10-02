@@ -7,8 +7,6 @@ It uses ** SMS Spam Collection Dataset ** (UCI Depot) and uses machine learning 
 ## 📂 dataset
 - Source: [UCI Machine Learning Repository - SMS Spam Collection] (https://archive.ics.uci.edu/dataset/228/sms+spam+collection)  
 - The dataset has 5 574 SMS messages marked as ** him ** (legal) or ** spam **.  
-- Store the data set file 'SMSSSPAMCOLLACTION' in the data/`` folder for this project.
-
 ,,
 
 ## ⚙ Features
