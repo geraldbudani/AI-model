@@ -22,7 +22,7 @@ It uses ** SMS Spam Collection Dataset ** (UCI Depot) and uses machine learning 
 ### 1. Clone the Repository  
 Download the project from GitHub:  
 ```bash
-git clone https://github.com/yourusername/ai-text-classification.git
+git clone https://github.com/geraldbudani/AI-model.git
 cd ai-text-classification
 
 Install depencies
